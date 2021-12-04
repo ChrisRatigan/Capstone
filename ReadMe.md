@@ -77,3 +77,4 @@ While using more data could improve the model, a more complex model seems unnece
 
 http://cnn.com (and a bunch of other urls)
 https://stackoverflow.com/questions/29034928/pandas-convert-a-column-of-list-to-dummies 
+https://docs.scrapy.org/en/latest/intro/tutorial.html
