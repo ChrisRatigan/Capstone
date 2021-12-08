@@ -14,7 +14,7 @@ It was also of note that authors who specialized into a particular topic tended 
 
 | Author | Title | Accuracy | Articles Scraped |
 | --- | --- | --- | ---|
-|Jen ChristenSen | Health & Climate Unit| 93% | 312 |
+|Jen Christensen | Health & Climate Unit| 93% | 312 |
 |Zachary Cohen | National Security Reporter| 96% | 263 |
 |Eliott C. McLaughlin | Senior Writer| 83% | 248 |
 |Jill Martin | Sports News Editor| 87% | 145 |
