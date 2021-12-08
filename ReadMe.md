@@ -28,7 +28,7 @@ The imbalance of classes also seems to have had an effect on our model's accurac
 ## File Directory
 
 The code, EDA, and analysis can all be found in Capstone.py.
-The spider used for scraping can be found in the folder raw_spider
+The spider used for scraping was in the folder raw_spider, but due to concerns about bad actors using such a spider to DDOS CNN, it has been omitted from this public repository. The scraped data was ready into a large .csv file which due to size restraints is also omitted from this public repository.
 A copy of the presentation I gave at GA is saved as Capstone.pdf
 
 ## Data Dictionaries
