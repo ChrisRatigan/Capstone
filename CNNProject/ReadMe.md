@@ -14,7 +14,7 @@ It was also of note that authors who specialized into a particular topic tended 
 
 | Author | Title | Accuracy | Articles Scraped |
 | --- | --- | --- | ---|
-|Jen ChristenSen | Health & Climate Unit| 93% | 312 |
+|Jen Christensen | Health & Climate Unit| 93% | 312 |
 |Zachary Cohen | National Security Reporter| 96% | 263 |
 |Eliott C. McLaughlin | Senior Writer| 83% | 248 |
 |Jill Martin | Sports News Editor| 87% | 145 |
@@ -28,7 +28,7 @@ The imbalance of classes also seems to have had an effect on our model's accurac
 ## File Directory
 
 The code, EDA, and analysis can all be found in Capstone.py.
-The spider used for scraping can be found in the folder raw_spider
+The spider used for scraping was in the folder raw_spider, but due to concerns about bad actors using such a spider to DDOS CNN, it has been omitted from this public repository. The scraped data was ready into a large .csv file which due to size restraints is also omitted from this public repository.
 A copy of the presentation I gave at GA is saved as Capstone.pdf
 
 ## Data Dictionaries
@@ -76,5 +76,7 @@ While using more data could improve the model, a more complex model seems unnece
 ### Sources:
 
 http://cnn.com (and a bunch of other urls)
+
 https://stackoverflow.com/questions/29034928/pandas-convert-a-column-of-list-to-dummies 
+
 https://docs.scrapy.org/en/latest/intro/tutorial.html
